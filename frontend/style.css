@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+}
+
+h1 {
+    color: #222;
+}
+
+button {
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #004c99;
+}
+
+#giochi {
+    margin-top: 30px;
+}
+
+.gioco {
+    background-color: white;
+    width: 300px;
+    margin: 15px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.gioco h2 {
+    color: #0066cc;
+}
